@@ -1,7 +1,7 @@
 # File Converter CLI 
 By Edwin Pavlovsky
 
-## The What
+### The What
 A simple and elegant python command-line-interface (CLI) for converting file types.
 
 __Features__ (`--help`)
