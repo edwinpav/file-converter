@@ -20,7 +20,7 @@ __Features__ (`--help`)
    - [Installation instructions can be found here](https://www.python.org/downloads/)
 3. Follow instructions on `setup.txt`
     - This creates a python virtual environment that downloads all of the necessary python packages (which are needed to run this program) 
-    - For a list of all packages, check out `requirements.txt`
+    - For a list of all packages (and their versions) that this program downloads, check out `requirements.txt`
 4. Run the program by running: `python3 file-converter.py --<flag_name>`
     - The `--help` flag shows you all of the supported commands and their required arguments
 
