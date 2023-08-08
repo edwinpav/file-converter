@@ -5,7 +5,7 @@ By Edwin Pavlovsky
 A simple and elegant python command-line-interface (CLI) for converting file types.
 
 __Features__ (`--help`)
-1. Convert file to any supported type under and path name (`--convert`)
+1. Convert file to any supported type under any path name (`--convert`)
 2. See all file types the program supports (`--list`)
 3. Check if the program supports a specific file type (`--supported`)
 
